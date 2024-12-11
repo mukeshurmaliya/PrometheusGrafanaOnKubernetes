@@ -1,6 +1,13 @@
 # PrometheusGrafanaOnKubernetes
 Setup Prometheus and Grafana on Kubernetes Instance and then monitor Kubernetes Resources
 
+Usee thesee Helm Charts:
+
+https://github.com/prometheus-community/helm-charts
+
+https://github.com/grafana/helm-charts
+
+
 mukeshurmaliya@MASK ~ % helm
 The Kubernetes package manager
 
